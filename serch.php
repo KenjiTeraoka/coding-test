@@ -21,16 +21,11 @@ $data = [
 ];
 
 $curl = curl_init();
-header("Cache-Control: no-cache, must-revalidate");
-header("Expires: Sat, 01 Jan 2000 00:00:00 GMT");
 curl_setopt($curl, CURLOPT_URL, $url);
 curl_setopt($curl, CURLOPT_POST, true);
 curl_setopt($curl, CURLOPT_POSTFIELDS, http_build_query($data));
 curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
 $response = json_decode(curl_exec($curl), true);
-if ($response === false) {
-    // echo 'cURLエラー: ' . curl_error($curl);
-}
 $shops = [];
 $shops = $response['results']['shop'];
 foreach($shops as $key => $shop){

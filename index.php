@@ -45,7 +45,7 @@
         </div>
 
         <template class="modaltemplate">
-            <div class="modal-shop">
+            <div class="modal-shop" id="modalshop">
                 <div class="modal-header"><span class="modalClose">×</span></div>
                 <div class="modal-body">
                     <img class="photo" src=""></img>
@@ -97,7 +97,6 @@
     const setPagination = () => {
         let responseitems = response.available;
         let responsestart = (response.start+9)/10;
-        console.log(response.start);
         $(function() {
             $('.pager').pagination({
                 items: responseitems,
@@ -114,17 +113,30 @@
     }
     
     const updateShopList = (shop) => {
+        modalarea.innerHTML = '';
         container.innerHTML = '';
         for (var i = 0; i < response.shop.length; i++) {
+            let modalshop = modaltemplate.content.cloneNode(true);
+            modalshop.querySelector(".photo").src = response.shop[i].photo;
+            modalshop.querySelector(".name").textContent = response.shop[i].name;
+            modalshop.querySelector(".address").textContent = response.shop[i].address;
+            modalshop.querySelector(".open").textContent = response.shop[i].open;
+            modalshop.querySelector('.modal-shop').id = `modal-shop-${i + 1}`;
+            modalarea.appendChild(modalshop);
+            
             let shop = template.content.cloneNode(true);
             shop.querySelector(".name").textContent = response.shop[i].name;
             shop.querySelector(".access").textContent = response.shop[i].access;
             shop.querySelector(".thumbnail").src = response.shop[i].thumbnail;
             shop.querySelector(".link").id = "shop" + (i + 1);
             container.appendChild(shop);
+            document.getElementById(`shop${i + 1}`).addEventListener("click", function(){
+                // document.getElementById(`modal-shop-${i + 1}`).style.display = 'block';
+            });
         }
         setPagination();
     }
+
     
     const sendApi = (currentPageNumber) => {
         let position_data;

@@ -107,6 +107,10 @@ body {
   margin: 20px auto;
 }
 
+.modal-shop {
+  display: none;
+}
+
 @media screen and (max-width: 600px) {
   body {
     font-size: 14px;
