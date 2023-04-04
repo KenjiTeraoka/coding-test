@@ -1,6 +1,8 @@
 <?php
-header("Cache-Control: no-cache, must-revalidate");
-header("Expires: Sat, 1 Jan 2000 00:00:00 GMT");
+require 'vendor/autoload.php';
+$dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+$dotenv->load();
+$apiKey = $_ENV['API_KEY'];
 
 $request = json_decode(file_get_contents("php://input"), true);
 $lat = $request['lat'];
@@ -10,12 +12,11 @@ $start = 1;
 
 $url = 'https://webservice.recruit.co.jp/hotpepper/gourmet/v1/';
 $data = [
-    'key' => '4b9ac05e40e7f043',
+    'key' => $apiKey,
     'lat' => $lat,
     'lng' => $lon,
     'range' => $range,
     'start' => $start,
-    'count' => '12',
     'format' => 'json',
 ];
 
