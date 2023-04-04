@@ -1,0 +1,692 @@
+array(1) {
+  ["results"]=>
+  array(5) {
+    ["api_version"]=>
+    string(4) "1.26"
+    ["results_available"]=>
+    int(4)
+    ["results_returned"]=>
+    string(1) "4"
+    ["results_start"]=>
+    int(1)
+    ["shop"]=>
+    array(4) {
+      [0]=>
+      array(51) {
+        ["access"]=>
+        string(61) "東京メトロ東西線南行徳駅南口より徒歩約8分"
+        ["address"]=>
+        string(53) "千葉県市川市相之川４-2-1 前島コーポ101"
+        ["band"]=>
+        string(6) "不可"
+        ["barrier_free"]=>
+        string(6) "なし"
+        ["budget"]=>
+        array(3) {
+          ["average"]=>
+          string(31) "ディナー：3,000～￥3,999"
+          ["code"]=>
+          string(4) "B003"
+          ["name"]=>
+          string(14) "3001～4000円"
+        }
+        ["budget_memo"]=>
+        string(0) ""
+        ["capacity"]=>
+        int(18)
+        ["card"]=>
+        string(9) "利用可"
+        ["catch"]=>
+        string(61) "豊洲で仕入れる生本マグロ 定番～季節の地酒"
+        ["charter"]=>
+        string(12) "貸切不可"
+        ["child"]=>
+        string(21) "お子様連れ不可"
+        ["close"]=>
+        string(3) "月"
+        ["coupon_urls"]=>
+        array(2) {
+          ["pc"]=>
+          string(62) "https://www.hotpepper.jp/strJ001294416/map/?vos=nhppalsa000016"
+          ["sp"]=>
+          string(66) "https://www.hotpepper.jp/strJ001294416/scoupon/?vos=nhppalsa000016"
+        }
+        ["course"]=>
+        string(6) "あり"
+        ["english"]=>
+        string(6) "なし"
+        ["free_drink"]=>
+        string(6) "なし"
+        ["free_food"]=>
+        string(6) "なし"
+        ["genre"]=>
+        array(3) {
+          ["catch"]=>
+          string(36) "アットホームな和食居酒屋"
+          ["code"]=>
+          string(4) "G001"
+          ["name"]=>
+          string(9) "居酒屋"
+        }
+        ["horigotatsu"]=>
+        string(6) "なし"
+        ["id"]=>
+        string(10) "J001294416"
+        ["karaoke"]=>
+        string(6) "なし"
+        ["ktai_coupon"]=>
+        int(1)
+        ["large_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "Z014"
+          ["name"]=>
+          string(6) "千葉"
+        }
+        ["large_service_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "SS10"
+          ["name"]=>
+          string(6) "関東"
+        }
+        ["lat"]=>
+        float(35.675155445)
+        ["lng"]=>
+        float(139.903038479)
+        ["logo_image"]=>
+        string(61) "https://imgfp.hotp.jp/IMGH/95/07/P039569507/P039569507_69.jpg"
+        ["lunch"]=>
+        string(6) "なし"
+        ["middle_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "Y126"
+          ["name"]=>
+          string(33) "舞浜・浦安・行徳・妙典"
+        }
+        ["midnight"]=>
+        string(21) "営業していない"
+        ["mobile_access"]=>
+        string(61) "東京ﾒﾄﾛ東西線南行徳駅南口より徒歩約8分"
+        ["name"]=>
+        string(6) "笑○"
+        ["name_kana"]=>
+        string(15) "しょうまる"
+        ["non_smoking"]=>
+        string(15) "禁煙席なし"
+        ["open"]=>
+        string(91) "火～日、祝日、祝前日: 17:00～23:30 （料理L.O. 23:00 ドリンクL.O. 23:00）"
+        ["other_memo"]=>
+        string(0) ""
+        ["parking"]=>
+        string(6) "なし"
+        ["party_capacity"]=>
+        int(12)
+        ["pet"]=>
+        string(6) "不可"
+        ["photo"]=>
+        array(2) {
+          ["mobile"]=>
+          array(2) {
+            ["l"]=>
+            string(62) "https://imgfp.hotp.jp/IMGH/95/16/P039569516/P039569516_168.jpg"
+            ["s"]=>
+            string(62) "https://imgfp.hotp.jp/IMGH/95/16/P039569516/P039569516_100.jpg"
+          }
+          ["pc"]=>
+          array(3) {
+            ["l"]=>
+            string(62) "https://imgfp.hotp.jp/IMGH/95/16/P039569516/P039569516_238.jpg"
+            ["m"]=>
+            string(62) "https://imgfp.hotp.jp/IMGH/95/16/P039569516/P039569516_168.jpg"
+            ["s"]=>
+            string(63) "https://imgfp.hotp.jp/IMGH/95/16/P039569516/P039569516_58_s.jpg"
+          }
+        }
+        ["private_room"]=>
+        string(6) "なし"
+        ["service_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "SA14"
+          ["name"]=>
+          string(6) "千葉"
+        }
+        ["shop_detail_memo"]=>
+        string(0) ""
+        ["show"]=>
+        string(6) "なし"
+        ["small_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "XBJD"
+          ["name"]=>
+          string(9) "南行徳"
+        }
+        ["station_name"]=>
+        string(9) "南行徳"
+        ["tatami"]=>
+        string(6) "なし"
+        ["tv"]=>
+        string(6) "なし"
+        ["urls"]=>
+        array(1) {
+          ["pc"]=>
+          string(58) "https://www.hotpepper.jp/strJ001294416/?vos=nhppalsa000016"
+        }
+        ["wedding"]=>
+        string(0) ""
+        ["wifi"]=>
+        string(6) "なし"
+      }
+      [1]=>
+      array(51) {
+        ["access"]=>
+        string(73) "地下鉄東西線南行徳駅 徒歩1分、JR市川塩浜駅 バス10分"
+        ["address"]=>
+        string(81) "千葉県市川市相之川４－１８－１　メトロセンターＣ棟３号"
+        ["band"]=>
+        string(6) "不可"
+        ["barrier_free"]=>
+        string(6) "なし"
+        ["budget"]=>
+        array(3) {
+          ["average"]=>
+          string(0) ""
+          ["code"]=>
+          string(4) "B002"
+          ["name"]=>
+          string(14) "2001～3000円"
+        }
+        ["budget_memo"]=>
+        string(0) ""
+        ["capacity"]=>
+        int(30)
+        ["card"]=>
+        string(9) "利用可"
+        ["catch"]=>
+        string(0) ""
+        ["charter"]=>
+        string(112) "貸切可 ：貸切は30名様からコース予約のみで承ります！最低料金は1人2980円からOK！"
+        ["child"]=>
+        string(70) "お子様連れ不可 ：喫煙可能店の為不可となります。"
+        ["close"]=>
+        string(81) "大晦日、元旦のみ定休日。その他不定休となっております。"
+        ["coupon_urls"]=>
+        array(2) {
+          ["pc"]=>
+          string(62) "https://www.hotpepper.jp/strJ001010052/map/?vos=nhppalsa000016"
+          ["sp"]=>
+          string(66) "https://www.hotpepper.jp/strJ001010052/scoupon/?vos=nhppalsa000016"
+        }
+        ["course"]=>
+        string(6) "あり"
+        ["english"]=>
+        string(6) "なし"
+        ["free_drink"]=>
+        string(155) "あり ：飲み放題は1100円からご用意しております！ご不明な点などございましたらお気軽にお問い合わせください！"
+        ["free_food"]=>
+        string(6) "なし"
+        ["genre"]=>
+        array(3) {
+          ["catch"]=>
+          string(56) "南行徳の大衆居酒屋!!飲み放題！焼き鳥！"
+          ["code"]=>
+          string(4) "G001"
+          ["name"]=>
+          string(9) "居酒屋"
+        }
+        ["horigotatsu"]=>
+        string(74) "あり ：合計16席!!宴会、歓送迎会、忘年会などにぜひ♪"
+        ["id"]=>
+        string(10) "J001010052"
+        ["karaoke"]=>
+        string(6) "なし"
+        ["ktai_coupon"]=>
+        int(0)
+        ["large_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "Z014"
+          ["name"]=>
+          string(6) "千葉"
+        }
+        ["large_service_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "SS10"
+          ["name"]=>
+          string(6) "関東"
+        }
+        ["lat"]=>
+        float(35.6734120343)
+        ["lng"]=>
+        float(139.9031990912)
+        ["logo_image"]=>
+        string(61) "https://imgfp.hotp.jp/IMGH/06/43/P026820643/P026820643_69.jpg"
+        ["lunch"]=>
+        string(6) "なし"
+        ["middle_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "Y126"
+          ["name"]=>
+          string(33) "舞浜・浦安・行徳・妙典"
+        }
+        ["midnight"]=>
+        string(21) "営業していない"
+        ["mobile_access"]=>
+        string(41) "地下鉄東西線南行徳駅 徒歩1分"
+        ["name"]=>
+        string(25) "串じまん 南行徳店"
+        ["name_kana"]=>
+        string(48) "くしじまん　みなみぎょうとくてん"
+        ["non_smoking"]=>
+        string(15) "禁煙席なし"
+        ["open"]=>
+        string(93) "月～日、祝日、祝前日: 17:00～翌0:00 （料理L.O. 23:00 ドリンクL.O. 23:00）"
+        ["other_memo"]=>
+        string(0) ""
+        ["parking"]=>
+        string(73) "なし ：近くに有料のコインパーキングがございます。"
+        ["party_capacity"]=>
+        int(30)
+        ["pet"]=>
+        string(6) "不可"
+        ["photo"]=>
+        array(2) {
+          ["mobile"]=>
+          array(2) {
+            ["l"]=>
+            string(62) "https://imgfp.hotp.jp/IMGH/66/55/P035866655/P035866655_168.jpg"
+            ["s"]=>
+            string(62) "https://imgfp.hotp.jp/IMGH/66/55/P035866655/P035866655_100.jpg"
+          }
+          ["pc"]=>
+          array(3) {
+            ["l"]=>
+            string(62) "https://imgfp.hotp.jp/IMGH/66/55/P035866655/P035866655_238.jpg"
+            ["m"]=>
+            string(62) "https://imgfp.hotp.jp/IMGH/66/55/P035866655/P035866655_168.jpg"
+            ["s"]=>
+            string(63) "https://imgfp.hotp.jp/IMGH/66/55/P035866655/P035866655_58_s.jpg"
+          }
+        }
+        ["private_room"]=>
+        string(6) "なし"
+        ["service_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "SA14"
+          ["name"]=>
+          string(6) "千葉"
+        }
+        ["shop_detail_memo"]=>
+        string(0) ""
+        ["show"]=>
+        string(6) "なし"
+        ["small_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "XBJD"
+          ["name"]=>
+          string(9) "南行徳"
+        }
+        ["station_name"]=>
+        string(9) "南行徳"
+        ["tatami"]=>
+        string(37) "なし ：ご予約はお早めに！"
+        ["tv"]=>
+        string(6) "あり"
+        ["urls"]=>
+        array(1) {
+          ["pc"]=>
+          string(58) "https://www.hotpepper.jp/strJ001010052/?vos=nhppalsa000016"
+        }
+        ["wedding"]=>
+        string(0) ""
+        ["wifi"]=>
+        string(6) "なし"
+      }
+      [2]=>
+      array(51) {
+        ["access"]=>
+        string(158) "東京メトロ東西線 南行徳駅南口より徒歩9分/東京メトロ東西線 行徳駅より徒歩18分/ 首都湾岸線 千鳥町東行き出口14分"
+        ["address"]=>
+        string(36) "千葉県市川市福栄１－２３"
+        ["band"]=>
+        string(6) "不可"
+        ["barrier_free"]=>
+        string(6) "なし"
+        ["budget"]=>
+        array(3) {
+          ["average"]=>
+          string(7) "1100円"
+          ["code"]=>
+          string(4) "B001"
+          ["name"]=>
+          string(14) "1501～2000円"
+        }
+        ["budget_memo"]=>
+        string(54) "※詳しい決済方法はお問合せください。"
+        ["capacity"]=>
+        int(112)
+        ["card"]=>
+        string(9) "利用可"
+        ["catch"]=>
+        string(67) "種類豊富なメニュー◎ 和スイーツもお任せ下さい"
+        ["charter"]=>
+        string(43) "貸切不可 ：※ご相談ください。"
+        ["child"]=>
+        string(76) "お子様連れ歓迎 ：お子様ランチもご用意しております。"
+        ["close"]=>
+        string(3) "無"
+        ["coupon_urls"]=>
+        array(2) {
+          ["pc"]=>
+          string(62) "https://www.hotpepper.jp/strJ000197066/map/?vos=nhppalsa000016"
+          ["sp"]=>
+          string(66) "https://www.hotpepper.jp/strJ000197066/scoupon/?vos=nhppalsa000016"
+        }
+        ["course"]=>
+        string(6) "あり"
+        ["english"]=>
+        string(6) "なし"
+        ["free_drink"]=>
+        string(55) "あり ：詳しくはお問い合わせください♪"
+        ["free_food"]=>
+        string(6) "なし"
+        ["genre"]=>
+        array(3) {
+          ["catch"]=>
+          string(24) "和食レストラン☆"
+          ["code"]=>
+          string(4) "G004"
+          ["name"]=>
+          string(6) "和食"
+        }
+        ["horigotatsu"]=>
+        string(127) "なし ：掘りごたつ席のご用意はございませんが、お席のレイアウト等、お気軽にご相談下さい"
+        ["id"]=>
+        string(10) "J000197066"
+        ["karaoke"]=>
+        string(6) "なし"
+        ["ktai_coupon"]=>
+        int(1)
+        ["large_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "Z014"
+          ["name"]=>
+          string(6) "千葉"
+        }
+        ["large_service_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "SS10"
+          ["name"]=>
+          string(6) "関東"
+        }
+        ["lat"]=>
+        float(35.6738648724)
+        ["lng"]=>
+        float(139.9073459436)
+        ["logo_image"]=>
+        string(61) "https://imgfp.hotp.jp/IMGH/56/52/P018295652/P018295652_69.jpg"
+        ["lunch"]=>
+        string(6) "あり"
+        ["middle_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "Y126"
+          ["name"]=>
+          string(33) "舞浜・浦安・行徳・妙典"
+        }
+        ["midnight"]=>
+        string(21) "営業していない"
+        ["mobile_access"]=>
+        string(59) "東京ﾒﾄﾛ東西線 南行徳駅南口より徒歩9分"
+        ["name"]=>
+        string(35) "夢庵 ゆめあん 市川福栄店"
+        ["name_kana"]=>
+        string(45) "ゆめあん　いちかわふくえいてん"
+        ["non_smoking"]=>
+        string(12) "全面禁煙"
+        ["open"]=>
+        string(45) "月～日、祝日、祝前日: 10:00～19:30"
+        ["other_memo"]=>
+        string(0) ""
+        ["parking"]=>
+        string(15) "あり ：26台"
+        ["party_capacity"]=>
+        int(112)
+        ["pet"]=>
+        string(6) "不可"
+        ["photo"]=>
+        array(2) {
+          ["mobile"]=>
+          array(2) {
+            ["l"]=>
+            string(62) "https://imgfp.hotp.jp/IMGH/33/10/P040423310/P040423310_168.jpg"
+            ["s"]=>
+            string(62) "https://imgfp.hotp.jp/IMGH/33/10/P040423310/P040423310_100.jpg"
+          }
+          ["pc"]=>
+          array(3) {
+            ["l"]=>
+            string(62) "https://imgfp.hotp.jp/IMGH/33/10/P040423310/P040423310_238.jpg"
+            ["m"]=>
+            string(62) "https://imgfp.hotp.jp/IMGH/33/10/P040423310/P040423310_168.jpg"
+            ["s"]=>
+            string(63) "https://imgfp.hotp.jp/IMGH/33/10/P040423310/P040423310_58_s.jpg"
+          }
+        }
+        ["private_room"]=>
+        string(121) "あり ：個室フロアのご用意はございませんが、テーブル席など、お気軽にご相談下さい。"
+        ["service_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "SA14"
+          ["name"]=>
+          string(6) "千葉"
+        }
+        ["shop_detail_memo"]=>
+        string(87) "ご不明な点がございましたら、お気軽にお問い合わせください。"
+        ["show"]=>
+        string(6) "なし"
+        ["small_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "XBJC"
+          ["name"]=>
+          string(6) "行徳"
+        }
+        ["station_name"]=>
+        string(9) "南行徳"
+        ["tatami"]=>
+        string(127) "なし ：お座敷フロアのご用意はございませんが、お席のレイアウト等、お気軽にご相談下さい"
+        ["tv"]=>
+        string(6) "なし"
+        ["urls"]=>
+        array(1) {
+          ["pc"]=>
+          string(58) "https://www.hotpepper.jp/strJ000197066/?vos=nhppalsa000016"
+        }
+        ["wedding"]=>
+        string(33) "お気軽にご相談下さい。"
+        ["wifi"]=>
+        string(6) "あり"
+      }
+      [3]=>
+      array(51) {
+        ["access"]=>
+        string(52) "東京メトロ東西線南行徳駅から徒歩1分"
+        ["address"]=>
+        string(90) "千葉県市川市相之川４‐６‐１０　エム・ファイブ南行徳ビル４Ｆ"
+        ["band"]=>
+        string(6) "不可"
+        ["barrier_free"]=>
+        string(6) "なし"
+        ["budget"]=>
+        array(3) {
+          ["average"]=>
+          string(17) "1000円～2000円"
+          ["code"]=>
+          string(4) "B001"
+          ["name"]=>
+          string(14) "1501～2000円"
+        }
+        ["budget_memo"]=>
+        string(58) "ゆうちょPAY・J-Coin Payもご利用いただけます"
+        ["capacity"]=>
+        int(183)
+        ["card"]=>
+        string(9) "利用可"
+        ["catch"]=>
+        string(73) "テレワークならウタヒロ！ ●ドリンクメニューが豊富"
+        ["charter"]=>
+        string(29) "貸切不可 ：(応相談）"
+        ["child"]=>
+        string(21) "お子様連れ歓迎"
+        ["close"]=>
+        string(6) "無休"
+        ["coupon_urls"]=>
+        array(2) {
+          ["pc"]=>
+          string(62) "https://www.hotpepper.jp/strJ000861284/map/?vos=nhppalsa000016"
+          ["sp"]=>
+          string(66) "https://www.hotpepper.jp/strJ000861284/scoupon/?vos=nhppalsa000016"
+        }
+        ["course"]=>
+        string(6) "なし"
+        ["english"]=>
+        string(6) "なし"
+        ["free_drink"]=>
+        string(6) "あり"
+        ["free_food"]=>
+        string(6) "なし"
+        ["genre"]=>
+        array(3) {
+          ["catch"]=>
+          string(52) "個室 カラオケ【最大受付人数/18名様】"
+          ["code"]=>
+          string(4) "G011"
+          ["name"]=>
+          string(27) "カラオケ・パーティ"
+        }
+        ["horigotatsu"]=>
+        string(6) "なし"
+        ["id"]=>
+        string(10) "J000861284"
+        ["karaoke"]=>
+        string(6) "あり"
+        ["ktai_coupon"]=>
+        int(1)
+        ["large_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "Z014"
+          ["name"]=>
+          string(6) "千葉"
+        }
+        ["large_service_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "SS10"
+          ["name"]=>
+          string(6) "関東"
+        }
+        ["lat"]=>
+        float(35.6731398163)
+        ["lng"]=>
+        float(139.9022186297)
+        ["logo_image"]=>
+        string(61) "https://imgfp.hotp.jp/IMGH/37/00/P021913700/P021913700_69.jpg"
+        ["lunch"]=>
+        string(6) "なし"
+        ["middle_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "Y126"
+          ["name"]=>
+          string(33) "舞浜・浦安・行徳・妙典"
+        }
+        ["midnight"]=>
+        string(18) "営業している"
+        ["mobile_access"]=>
+        string(52) "東京ﾒﾄﾛ東西線南行徳駅から徒歩1分"
+        ["name"]=>
+        string(22) "歌広場 南行徳店"
+        ["name_kana"]=>
+        string(69) "からおけるーむうたひろば　みなみぎょうとくてん"
+        ["non_smoking"]=>
+        string(12) "全面禁煙"
+        ["open"]=>
+        string(47) "月～日、祝日、祝前日: 11:00～翌5:00"
+        ["other_memo"]=>
+        string(0) ""
+        ["parking"]=>
+        string(6) "なし"
+        ["party_capacity"]=>
+        int(18)
+        ["pet"]=>
+        string(6) "不可"
+        ["photo"]=>
+        array(2) {
+          ["mobile"]=>
+          array(2) {
+            ["l"]=>
+            string(62) "https://imgfp.hotp.jp/IMGH/41/60/P037074160/P037074160_168.jpg"
+            ["s"]=>
+            string(62) "https://imgfp.hotp.jp/IMGH/41/60/P037074160/P037074160_100.jpg"
+          }
+          ["pc"]=>
+          array(3) {
+            ["l"]=>
+            string(62) "https://imgfp.hotp.jp/IMGH/41/60/P037074160/P037074160_238.jpg"
+            ["m"]=>
+            string(62) "https://imgfp.hotp.jp/IMGH/41/60/P037074160/P037074160_168.jpg"
+            ["s"]=>
+            string(63) "https://imgfp.hotp.jp/IMGH/41/60/P037074160/P037074160_58_s.jpg"
+          }
+        }
+        ["private_room"]=>
+        string(6) "なし"
+        ["service_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "SA14"
+          ["name"]=>
+          string(6) "千葉"
+        }
+        ["shop_detail_memo"]=>
+        string(0) ""
+        ["show"]=>
+        string(6) "なし"
+        ["small_area"]=>
+        array(2) {
+          ["code"]=>
+          string(4) "XBJD"
+          ["name"]=>
+          string(9) "南行徳"
+        }
+        ["station_name"]=>
+        string(9) "南行徳"
+        ["tatami"]=>
+        string(6) "なし"
+        ["tv"]=>
+        string(6) "あり"
+        ["urls"]=>
+        array(1) {
+          ["pc"]=>
+          string(58) "https://www.hotpepper.jp/strJ000861284/?vos=nhppalsa000016"
+        }
+        ["wedding"]=>
+        string(0) ""
+        ["wifi"]=>
+        string(6) "あり"
+      }
+    }
+  }
+}
